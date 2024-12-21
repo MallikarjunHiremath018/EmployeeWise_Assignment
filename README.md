@@ -14,6 +14,9 @@ Welcome to **EmployeeWise Assignment**! This project is designed to showcase a s
 
 ---
 
+## **🚀 view live site on netlify 🚀**
+- link :https://employeeassignment.netlify.app
+---
 ## 🚀 **Technologies Used**
 
 - **Frontend**: 
